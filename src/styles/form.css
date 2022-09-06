@@ -1,0 +1,19 @@
+.form {
+    width: 400px;
+    height: 200px;
+   margin: auto;
+    background-color: white;
+    border-radius: 5px;
+    text-align: center;
+    padding-top: 20px;
+    
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    row-gap: 5px;
+}
+
